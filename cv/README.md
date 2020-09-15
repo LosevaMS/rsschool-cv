@@ -1,8 +1,11 @@
 ##Maria Loseva 
 
-Phone: +7 (920) 024 34 60 <br>
-Email: pozitivka8@gmail.com <br>
-Github: https://github.com/LosevaMS <br>
+Phone: +7 (920) 024 34 60 
+
+Email: pozitivka8@gmail.com 
+
+Github: https://github.com/LosevaMS 
+
 Address: Nizhniy Novgorod, Russia
 
 
@@ -24,7 +27,8 @@ Gym Progress Tracking Application - https://github.com/LosevaMS/TrainingApp
 
 #####Education
 National Research University "Higher School of Economics", 
-Nizhniy Novgorod. <br>
+Nizhniy Novgorod. 
+
 Faculty of Informatics, Mathematics, and Computer Science. 
 Specialty: Software Engineering.
 
