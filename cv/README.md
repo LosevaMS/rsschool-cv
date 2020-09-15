@@ -1,6 +1,5 @@
 ## Maria Loseva 
 
-Phone: +7 (920) 024 34 60 <br>
 Email: pozitivka8@gmail.com <br>
 Github: https://github.com/LosevaMS <br>
 Address: Nizhniy Novgorod, Russia
