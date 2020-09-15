@@ -1,11 +1,8 @@
 ## Maria Loseva 
 
-Phone: +7 (920) 024 34 60 
-
-Email: pozitivka8@gmail.com 
-
-Github: https://github.com/LosevaMS 
-
+Phone: +7 (920) 024 34 60 <br>
+Email: pozitivka8@gmail.com <br>
+Github: https://github.com/LosevaMS <br>
 Address: Nizhniy Novgorod, Russia
 
 
@@ -22,14 +19,14 @@ Java, C ++, SQL, Android Development
 https://github.com/LosevaMS/TrainingApp
 
 ##### Experience
-Completed a course on the basics of Android development. Attended GDG Flutter meetup. 
+Completed a course on the basics of Android development. <br> Attended GDG Flutter meetup. <br>
 Gym Progress Tracking Application - https://github.com/LosevaMS/TrainingApp
 
 ##### Education
 National Research University "Higher School of Economics", 
 Nizhniy Novgorod. 
 
-Faculty of Informatics, Mathematics, and Computer Science. 
+Faculty of Informatics, Mathematics, and Computer Science. <br>
 Specialty: Software Engineering.
 
 ##### English
